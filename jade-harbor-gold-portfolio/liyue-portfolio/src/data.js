@@ -8,9 +8,9 @@ export const profile = {
 };
 // Set liveUrl and sourceUrl to real HTTPS links to enable project buttons.
 export const projects = [
-  { title: 'Harbor', category: 'Full stack', subtitle: 'A calmer way to organize your day.', description: 'Sample concept: a task workspace with project boards, deadlines, and a focused daily view. Replace this with your actual contribution and results.', tags: ['React', 'Node.js', 'PostgreSQL'], art: 'harbor', liveUrl: '', sourceUrl: '' },
-  { title: 'Lotus Studio', category: 'Frontend', subtitle: 'A little space for meaningful stories.', description: 'Sample concept: an editorial website with accessible navigation, responsive layouts, and a reading-first design. Add your actual implementation details.', tags: ['JavaScript', 'CSS', 'Accessibility'], art: 'lotus', liveUrl: '', sourceUrl: '' },
-  { title: 'Jade Analytics', category: 'Full stack', subtitle: 'Making the numbers feel human.', description: 'Sample concept: a dashboard that turns complex data into clear charts and useful summaries. Describe your data sources and engineering decisions here.', tags: ['TypeScript', 'API', 'SQL'], art: 'jade', liveUrl: '', sourceUrl: '' },
+  { title: 'AIR', category: 'Full stack', subtitle: 'Air Quality Monitoring.', description: 'Real-time air quality monitoring platform with interactive dashboard, heatmaps, and alerts. Used Gradient Boosting Regression to predict a three hours of air data.', tags: ['React', 'Node.js', 'PostgreSQL'], art: 'harbor', liveUrl: '', sourceUrl: '' },
+  { title: 'Lotus', category: 'Frontend', subtitle: 'Lost and Found Management System.', description: 'Tracking lost and found iterms, including descriptions, locations, and claim status. Implemented KNN matching to suggest potential matches between item reports.', tags: ['JavaScript', 'CSS', 'Accessibility'], art: 'lotus', liveUrl: '', sourceUrl: '' },
+  { title: 'Wang Sheng', category: 'Frontend', subtitle: 'Restaurant Reservation and Management System.', description: 'A Restaurant Website with costumer accounts, menu browsing, and reservation management. Integrated MySQL storage and admin dashboard to oversee costumer, booking, and payment. ', tags: ['TypeScript', 'API', 'SQL'], art: 'jade', liveUrl: '', sourceUrl: '' },
 ];
 export const skills = [
   { title: 'Interface', items: ['HTML & CSS', 'JavaScript / TypeScript', 'React', 'Responsive design'] },
