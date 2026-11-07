@@ -116,3 +116,14 @@ body,
     animation: none;
   }
 }
+
+/* Pavilion walls and outlines */
+.landscape g[stroke-width="3"] {
+  fill: #342E57;
+  stroke: #C9DEFF;
+}
+
+/* Pavilion roof */
+.landscape g[stroke-width="3"] > path:nth-child(2) {
+  fill: #151329;
+}
