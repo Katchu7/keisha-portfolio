@@ -18,10 +18,11 @@ export const skills = [
   { title: 'Workflow', items: ['Git & GitHub', 'Figma', 'Testing & debugging', 'Accessibility'] },
 ];
 export const journey = [
-  { date: 'YOUR DATES', title: 'Your degree or current role', organization: 'Your university or company', description: 'Add your field of study, responsibilities, or a meaningful achievement.' },
+  { date: 'YOUR DATES', title: 'Bachelor of Science in Computer Science', organization: 'FEU ALABANG', description: 'Software Engineering major.' },
   { date: 'YOUR DATES', title: 'Your internship or experience', organization: 'Your organization', description: 'Describe what you built, the people you worked with, and what you learned.' },
 ];
 export const certificates = [
-  { title: 'Your certification', issuer: 'Issuing organization · Year', url: '' },
-  { title: 'Your course or achievement', issuer: 'Issuing organization · Year', url: '' },
+  { title: 'IT Specialist Python', issuer: 'Certiport · 2025', url: '' },
+  { title: 'IT Specialist Java', issuer: 'Certiport · 2024', url: '' },
+  { title: 'Junior Cyber Security Analyst Career Path', issuer: 'Cisco Netwroking Academy · 2026', url: '' },
 ];
