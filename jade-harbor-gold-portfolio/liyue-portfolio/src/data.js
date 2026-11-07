@@ -1,8 +1,8 @@
 // EDIT THIS FILE FIRST. All entries below are examples, not claimed credentials.
 export const profile = {
-  name: 'Your Name',
-  email: 'hello@example.com',
-  github: 'https://github.com',
+  name: 'Keisha Belle Capistrano Calibjo',
+  email: 'keishacalibjo@gmail.com',
+  github: 'https://github.com/Katchu7',
   bio: 'I’m a software engineer who enjoys connecting thoughtful design with practical engineering. I build web experiences that help people do more with less friction.',
   technologies: ['JavaScript', 'TypeScript', 'React', 'Node.js', 'PostgreSQL'],
 };
